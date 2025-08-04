@@ -166,7 +166,7 @@ int main(){
 	player p1;
 	int option;
 	do{
-	int option;
+	
 	cout<<" welcome to betting app :"<<endl;
 	cout<<" BALANCE :"<<p1.balance<<endl;
 	cout<<" COINS :"<<p1.coin<<endl;
@@ -199,3 +199,4 @@ int main(){
 	
 	return 0;
 }
+
